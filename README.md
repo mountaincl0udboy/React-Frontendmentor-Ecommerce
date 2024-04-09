@@ -1,10 +1,11 @@
 # Frontend Mentor
-## [E-commerce product page Challenge](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)
+### [E-commerce product page Challenge](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)
+
 ### In this challenge, I'll build a E-commerce product page using React, Emotion.
 
 # How To Start
 
-# Clone or download the project, in the project directory you need to run:
+## Clone or download the project, in the project directory you need to run:
 ### `npm install`
 ## After installing all modules run:
 ### `npm start`
@@ -18,8 +19,8 @@
 ### Cart:
 ![image](https://user-images.githubusercontent.com/85111590/208724073-86c2db86-9cf6-4e4b-ba6b-702f25de8e74.png)
 
-## Project with using just HTML, CSS, JavaScript
-- [GitHub](https://github.com/ogkkk/Frontendmentor-Ecommerce)
+## Same project with using just HTML, CSS, JavaScript
+- [GitHub](https://github.com/mountaincl0udboy/Frontendmentor-Ecommerce)
 
-## Contact me if you have any questions
-- [Instagram](https://www.instagram.com/imogk999/)
+Contact
+If you have any questions or about React-Frontendmentor-Ecommerce, please feel free to contact.
